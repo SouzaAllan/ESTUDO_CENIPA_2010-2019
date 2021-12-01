@@ -3,9 +3,9 @@
 * Universidade Nove de Julho
 * Curso : Sistemas de Informação
 
-#Integrantes 
+# Integrantes
 
-*Aldair  Araujo Alves 
+* Aldair Araujo Alves
 * Alan Costa Ramos
 * Allan Tavares de Souza Feitosa
 *  Ederaldo Ramos Amaral de Freitas
@@ -13,9 +13,9 @@
 *  Lucas Inacio Andrade Souza
 *  Vitor de Oliveira Pires
 
-#Instrutor
+# Instrutor
 
-Prof : Edson Melo  de Souza
+Prof : Edson Melo  de Souza.
 Ciência de dados com Pandas, Matplotlib, Statistics, Numpy, Scikit-learn e Numpy.
 Para mais acesse : https://www.edsonmelo.com.br/
 
